@@ -241,6 +241,10 @@ input, select, textarea {
 		text-align: right;
 	}
 
+#story {
+	font-size: 12pt;
+}
+
 /* Container */
 
 	.container {
