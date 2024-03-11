@@ -242,7 +242,10 @@ input, select, textarea {
 	}
 
 #story {
-	font-size: 0.5rem;
+	p {
+	font-size: 0.8em;
+	line-height: 0.8em;
+	}
 }
 
 /* Container */
